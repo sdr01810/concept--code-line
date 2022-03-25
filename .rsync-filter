@@ -1,0 +1,21 @@
+- *.swp
+- .#*
+- *#
+- *~
+
+- .all.*
+- .out.*
+- .du@*
+- .sb.*
+
+- .ts.*
+
+- build-output*
+
+- scratch*
+
+- TAGS
+- tags
+
+- typescript*
+

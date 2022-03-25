@@ -1,0 +1,20 @@
+## -*- mode: text; fill-column: 96 -*-
+## 
+## This file specifies the active code line on this commit branch.
+## 
+## The first non-blank non-comment line specifies that value.
+##
+## As the code line changes on this branch, that value should be updated,
+## and the first semantic version tag in the sequence for the new code line
+## should be attached as an annotated tag to the commit that changes this file.
+## 
+## A code line is denoted by a naming pattern for the semantic versioning
+## sequence within it, for example `0.1.x-alpha.2.y`.
+## 
+## Details on code lines can be found [here](https://github.com/sdr01810/concept--code-line).
+##
+## Details about semantic versioning can be found [here](<https://semver.org>).
+## 
+
+1.0.x-alpha.1.y
+
